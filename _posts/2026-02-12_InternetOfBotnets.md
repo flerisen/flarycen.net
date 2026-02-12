@@ -28,5 +28,8 @@ In the year 2016, Mirai malware authors launched its attack by continously scann
 ---
 
 ## Used Sources
+[https://www.cloudflare.com/learning/ddos/glossary/mirai-botnet/]
+[https://www.bleepingcomputer.com/news/security/aisuru-botnet-behind-new-record-breaking-297-tbps-ddos-attack/]
+[https://thehackernews.com/2025/12/kimwolf-botnet-hijacks-18-million.html]
 
 ---

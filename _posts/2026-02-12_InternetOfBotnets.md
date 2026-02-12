@@ -1,6 +1,8 @@
 ---
 title: Internet of Botnets
 date: 2026-02-12
+categories: [IoT, Botnets]
+tags: [IoT, Botnet]
 description: IoT devices turning into botnets already in development
 ---
 

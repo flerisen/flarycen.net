@@ -16,7 +16,7 @@ timezone:
 
 title: flarycen # the main title
 
-tagline: A blog dedicated to cybersecurity and schoolwork for now # it will display as the subtitle
+tagline: A blog dedicated to cybersecurity and schoolwork (for now) # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
@@ -220,7 +220,4 @@ jekyll-archives:
   permalinks:
     tag: /tags/:name/
     category: /categories/:name/
-
-share:
-  enable: false
 
